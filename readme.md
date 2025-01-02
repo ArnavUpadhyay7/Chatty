@@ -3,7 +3,9 @@
 Chatty is a full-stack real-time chat application built using the MERN stack, Socket.io, TailwindCSS, DaisyUI, and Zustand.
 It allows users to connect and communicate seamlessly, offering a customizable experience with theme settings and complete user authentication.
 
----
+
+Live link - https://chatty-aq50.onrender.com
+
 
 ## Features
 
